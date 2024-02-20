@@ -2,13 +2,13 @@
 
 @media (min-width: 900px) {
     body{
-        background-image: url(./img/dc9396a0-e7c2-4c47-b120-87dc7d6ba103.jpg);
+        background-image: url(./img/WhatsApp\ Image\ 2024-02-20\ at\ 13.13.08.jpeg);
         background-repeat: no-repeat;
         background-size: 1400px;
         background-position-x: center;
     }
 h1{
-    background-color: rgb(245, 104, 214);
+    background-color: rgb(10, 0, 70);
     font-size: 90px;
     margin: 0;
 }
@@ -25,14 +25,14 @@ margin: 0;
 }
 @media (max-width: 900px){
     body{
-        background-image: url(./img/dc9396a0-e7c2-4c47-b120-87dc7d6ba103.jpg);
+        background-image: url(./img/WhatsApp\ Image\ 2024-02-20\ at\ 13.13.08.jpeg);
         background-repeat: repeat-y;
         background-size: 100%;
         background-position-x: center;
         background-position-y: top;
     }
     h1{
-        background-color: rgb(245, 104, 214);
+        background-color: rgb(10, 0, 70);
         font-size: xx-large;
         margin-top: 0;
     }
