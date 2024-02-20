@@ -3,14 +3,15 @@
 @media (min-width: 900px) {
     body{
         background-image: url(./img/WhatsApp\ Image\ 2024-02-20\ at\ 13.13.08.jpeg);
-        background-repeat: no-repeat;
-        background-size: 1400px;
+        background-repeat:no-repeat;
+        background-size: contain;
         background-position-x: center;
     }
 h1{
     background-color: rgb(10, 0, 70);
     font-size: 90px;
     margin: 0;
+    color: white;
 }
 #countdown{
 background-color: rgb(111, 111, 255);
@@ -35,6 +36,7 @@ margin: 0;
         background-color: rgb(10, 0, 70);
         font-size: xx-large;
         margin-top: 0;
+        color: white;
     }
     #countdown{
     background-color: rgb(62, 62, 253);
